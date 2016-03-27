@@ -9,6 +9,8 @@ body{
 			font: 14px/20px Arial, San-Serif;
 			color: #555;
 			margin: 0;
+			background-color: #EAEDF7;
+
 }
 h1{
 			text-align: center;
@@ -51,6 +53,7 @@ header{
 			left: 0;
 			z-index: 100;		/* it stays above anything else on the page hover comes */
 			opacity: 0.90;			/* transperant */
+			 
 }
 #logo{
 			margin: 5px;
@@ -306,6 +309,7 @@ footer.second{
 	height: 40px;
 	text-align:center;
 }
+
 .blueberry .pager li { display: inline-block; }
 .blueberry .pager li a,
 .blueberry .pager li a span {
